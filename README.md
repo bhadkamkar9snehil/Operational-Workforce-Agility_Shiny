@@ -20,7 +20,7 @@ It is a dashboard which solves a theoretical problem of workforce balancing. The
 ##### This project is a simulation of such balancing.
 
 
-**Agility** in this project is defined as- Flexibility of workforce to move to different departments and fulfill demand.
+**Agility** in this project is defined as- Flexibility of workforce to move to different departments and fulfill demand.  
 
-There are multiple aspects of the dashboard which are under construction.
+There are multiple aspects of the dashboard which are under construction.  
 Various assumptions and constraints are added to the project to make it as viable as possible.
